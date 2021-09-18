@@ -388,11 +388,13 @@ void draw ()
       strokeWeight(0);
       ellipse(189, 673, 9, 9);
     }
+   /* 
     if((mouseX - 5 > 184) && (mouseX - 5 < 194) && (mouseY -5 > 668) && (mouseY -5 < 678))
     {
       tint(255, 255);
       print("Done");
     }
+   */ 
   }
 }
 
